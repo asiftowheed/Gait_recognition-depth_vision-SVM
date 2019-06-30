@@ -1,0 +1,2 @@
+# Gait-Recognition-using-Depth-Vision-in-a-Non-static-background-CMP-490-491-Senior-Design
+Research, design and implementation of 4 Gait Recognition algorithms using depth vision, image processing and machine learning to identify individuals based on their gait. Additionally, a system with a GUI was created for ease of use. Algorithms created, yielded up to 97% precision. Tools: Python (Spyder), Intel RealSense D435
